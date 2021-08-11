@@ -34,7 +34,7 @@ For example make images start color 27 and end with color 5 in range 49
 ```
 python3 number_to_image3.py 27 5 49
 ```
-![27-5of49](27-5of49.png)
+![27-5of49](pictures/27-5of49.png)
 
 ###  number to image from two colors (max number 16777215)
 For example make random images from range 1 to 49 seven times
